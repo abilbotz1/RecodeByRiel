@@ -1111,8 +1111,8 @@ const latensie = speed() - timestampe
 │𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 : ${jumlahcmd}
 │𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 𝗧𝗼𝗱𝗮𝘆 : ${jumlahharian}
 └┬────────────┈ ⳹
-   │✑  Please Select
-   │✑  The Button Below
+   │✑  Silahkan klik
+   │✑  Button dibawah ini
    └─────────────┈ ⳹`
    
    //randoming function
@@ -3224,27 +3224,27 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
 url: `${global.botscript}`
 }
 }, {
 quickReplyButton: {
-displayText: 'Bot Status 🚀',
+displayText: '𝐁𝐎𝐓 𝐒𝐓𝐀𝐓𝐔𝐒📍',
 id: 'ping'
 }
 }, {
 quickReplyButton: {
-displayText: 'Menu 🐰',
+displayText: '𝐌𝐄𝐍𝐔𝐍𝐘𝐀 𝐃𝐈𝐒𝐈𝐍𝐈 𝐓𝐎𝐃🤖',
 id: 'menu'
 }  
 }, {
 quickReplyButton: {
-displayText: 'Owner 😈',
+displayText: '𝐎𝐖𝐍𝐄𝐑 𝐀𝐈𝐍𝐊 𝐍𝐈𝐇😎',
 id: 'owner'
 }
 }]
@@ -3265,27 +3265,27 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
 url: `${global.botscript}`
 }
 }, {
 quickReplyButton: {
-displayText: 'Bot Status 🚀',
+displayText: '𝐁𝐎𝐓 𝐒𝐓𝐀𝐓𝐔𝐒📍',
 id: 'ping'
 }
 }, {
 quickReplyButton: {
-displayText: 'Menu 🐰',
+displayText: '𝐌𝐄𝐍𝐔𝐍𝐘𝐀 𝐃𝐈𝐒𝐈𝐍𝐈 𝐓𝐎𝐃🤖',
 id: 'menu'
 }  
 }, {
 quickReplyButton: {
-displayText: 'Owner 😈',
+displayText: '𝐎𝐖𝐍𝐄𝐑 𝐀𝐈𝐍𝐊 𝐍𝐈𝐇😎',
 id: 'owner'
 }
 }]
@@ -3307,27 +3307,27 @@ if (!isCreator) return replay(mess.owner)
                     await sleep(1500)
                     let butoon = [{
                                 urlButton: {
-                                displayText: 'YouTube 🍓',
+                                displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
 url: `${global.websitex}`
                                 }
                             }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
 url: `${global.botscript}`
 }
 }, {
 quickReplyButton: {
-displayText: 'Bot Status 🚀',
+displayText: '𝐁𝐎𝐓 𝐒𝐓𝐀𝐓𝐔𝐒📍',
 id: 'ping'
 }
 }, {
 quickReplyButton: {
-displayText: 'Menu 🐰',
+displayText: '𝐌𝐄𝐍𝐔𝐍𝐘𝐀 𝐃𝐈𝐒𝐈𝐍𝐈 𝐓𝐎𝐃🤖',
 id: 'menu'
 }  
 }, {
 quickReplyButton: {
-displayText: 'Owner 😈',
+displayText: '𝐎𝐖𝐍𝐄𝐑 𝐀𝐈𝐍𝐊 𝐍𝐈𝐇😎',
 id: 'owner'
 }
 }]
@@ -8779,17 +8779,17 @@ if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
 	                let btn = [{
                                 urlButton: {
-                                    displayText: 'YouTube 🍒',
+                                    displayText: '𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤',
                                     url: `${websitex}`
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Script 🍜',
+                                    displayText: '𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅',
                                     url: `${botscript}`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'All Menu 🍱',
+                                    displayText: '𝐀𝐋𝐋 𝐌𝐄𝐍𝐔👾',
                                     id: 'allmenu'
                                 }
                             }, {
@@ -8799,7 +8799,7 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Owner 🤣',
+                                    displayText: 'Owner 🗿',
                                     id: 'owner'
                                 }
                             }]
@@ -8816,11 +8816,11 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                         /////////XeonBotInc.send5ButMsg(m.chat, menulist, global.botname, btn)
                         } else if (setbot.templateDocument) {
                         let buttonmenu = [
-        	{ urlButton: { displayText: `YouTube 🍒`, url : `${websitex}` } },
-            { urlButton: { displayText: `Script 🍜`, url: `${botscript}` } },
-            { quickReplyButton: { displayText: `All Menu 🍱`, id: 'allmenu'} },
-            { quickReplyButton: { displayText: `List Menu 🍢`, id: 'command'} },
-            { quickReplyButton: { displayText: `Owner 🤣`, id: 'owner'} }
+        	{ urlButton: { displayText: `𝐘𝐓 𝐆𝐀𝐃𝐀 𝐁𝐀𝐍𝐇🐤`, url : `${websitex}` } },
+            { urlButton: { displayText: `𝐒𝐂𝐑𝐈𝐏𝐓 𝐃𝐈𝐘𝐓😅`, url: `${botscript}` } },
+            { quickReplyButton: { displayText: `𝐀𝐋𝐋 𝐌𝐄𝐍𝐔 👾`, id: 'allmenu'} },
+            { quickReplyButton: { displayText: `𝐋𝐈𝐒𝐓 𝐌𝐄𝐍𝐔 🤖`, id: 'command'} },
+            { quickReplyButton: { displayText: `OwnerKU🗿`, id: 'owner'} }
         	]
         	XeonBotInc.sendMessage(m.chat, { caption: menulist, document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'), mimetype: `${docs}`, fileName: `${ownername}`, templateButtons: buttonmenu, footer: `${botname}`, mentionedJid: [m.sender] })
                         }
@@ -8840,8 +8840,8 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Initial Features Of Bot 🦄",
 								"rows": [
 									{
-										"title": "Other ☕",
-										"description": "Displays The List Of Other Features",
+										"title": "INFO BOT ☕",
+										"description": "Dapatkan fitur lainnya",
 										"rowId": `${prefix}othermenu`
 									}
 								]
@@ -8850,103 +8850,103 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Bot Features ❤️",
 								"rows": [
 									{
-										"title": "All Menu 🥀",
-										"description": "Displays The List Of All The Features!",
+										"title": "ALL MENU 🐼",
+										"description": "Menampilkan semua fitur bot",
 										"rowId": `${prefix}allmenu`
 									},
 									{
-										"title": "Owner Menu 💠",
-										"description": "Displays The List Of Owner Features",
+										"title": "MENU OWNER 🙎",
+										"description": "menampilkan fitur khusus owner",
 										"rowId": `${prefix}ownermenu`
 										},
 									{
-										"title": "Group Menu ✨",
-										"description": "Displays The List Of Main Features",
+										"title": "MENU GROUP 🌙",
+										"description": "menampilkan semua fitur group",
 										"rowId": `${prefix}groupmenu`
 										},
 										{
-										"title": "Maker Menu 🌈",
-										"description": "Displays The List Of Logo Making Features",
+										"title": "MAKER MENU ✨",
+										"description": "menampilkan fitur membuat logo",
 										"rowId": `${prefix}indomenu`
 									},
 									{
-										"title": "Sound Menu 🎵",
-										"description": "Displays The List Of Sound Features",
+										"title": "MENU SOUND 🎧",
+										"description": "menampilkan fitur sound random dibotz",
 										"rowId": `${prefix}soundmenu`
 									},
 									{
-										"title": "Download Menu ↘️",
-										"description": "Displays The List Of Download Features",
+										"title": "MENU DOWNLOADER 📽️",
+										"description": "menampilkan semua fitur downloader",
 										"rowId": `${prefix}downloadmenu`
 									},
 									{
-										"title": "Sticker Menu 🃏",
-										"description": "Displays The List Of Sticker Features",
+										"title": "MENU STICKER 🎀",
+										"description": "menampilkan  fitur pembuat sticker",
 										"rowId": `${prefix}indomenu`
 									},
 									{
-										"title": "Search Menu 🔎",
-										"description": "Displays The List Of Searching Features",
+										"title": "MENU SEARCH ⏳",
+										"description": "menampilkan fitur pencarian dibotz",
 										"rowId": `${prefix}searchmenu`
 									},
 									{
-										"title": "Tool Menu ⚙️",
-										"description": "Displays The List Of Tool Features",
+										"title": "MENU TOOLS 📹",
+										"description": "menampilkan menu tools dibotz",
 										"rowId": `${prefix}toolmenu`
 									},
 									{
-										"title": "Random Image Menu 🌆",
-										"description": "Displays The List Of Random Image Features",
+										"title": "MENU IMAGE RANDOM 🗿",
+										"description": "menampilkan menu random image dibotz",
 										"rowId": `${prefix}randomimagemenu`
 									},
 									{
-										"title": "Image Effect Menu 🖼️",
-										"description": "Displays The List Of Image Effect Features",
+										"title": "MENU EFEK  IMAGE 🌈",
+										"description": "menampilkan  semua fitur efek image",
 										"rowId": `${prefix}imageeffectmenu`
 									},
 										{
-											"title": "Anime Menu 😘",
-										"description": "Displays The List Of Random Anime Features",
+											"title": "MENU ANIME 🔥",
+										"description": "menampilkan menu pencarian anime",
 										"rowId": `${prefix}animemenu`
 										},
 										{
-											"title": "Emote Menu 😀",
-										"description": "Displays The List Of Emote Features",
+											"title": "EMOTE MENU 🤓",
+										"description": "menampilkan fitur emote whastapp",
 										"rowId": `${prefix}emotemenu`
 										},
 										{
-										"title": "Anime Sticker Menu ☺️",
-										"description": "Displays The List Of Anime Sticker Features",
+										"title": "MENU STICKER ANIME 🥶",
+										"description": "menampilkan menu sticker anime",
 										"rowId": `${prefix}animestickermenu`
 									     },
 									{
-										"title": "Nsfw Menu 🤓",
-										"description": "Displays The List Of Nsfe Features",
+										"title": "MENU NSFW 🤠",
+										"description": "menampilkan menu nsfw",
 										"rowId": `${prefix}nsfwmenu`
 									     },
 										{
-											"title": "Fun Menu 🕺",
-										"description": "Displays The List Of Fun Features",
+											"title": "MENU FUN 🏃‍♂️",
+										"description": "menampilkan menu fun dibotz",
 										"rowId": `${prefix}funmenu`
 										},
 										{
-										"title": "Game Menu 🎮",
-										"description": "Displays The List Of Game Features",
+										"title": "MENU GAME 🎮",
+										"description": "menampilkan menu game dibotz",
 										"rowId": `${prefix}indomenu`
 									},
 										{
-											"title": "Convert Menu ⚒️",
-										"description": "Displays The List Of Convert Features",
+											"title": "MENU CONVERT 📠",
+										"description": "menampilkan menu Convert ",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
-											"title": "Database Menu ♻️",
-										"description": "Displays The List Of Database Features",
+											"title": "MENU DATABASE 🎞️",
+										"description": "menampilkan menu database",
 										"rowId": `${prefix}databasemenu`
 										},
 										{
-										"title": "Indo Menu  🦜",
-										"description": "Displays The List Of Indo Features",
+										"title": "MENU INDO 🇲🇨",
+										"description": "menampilkan menu indo",
 										"rowId": `${prefix}indomenu`
 									},
 										{
@@ -10586,11 +10586,11 @@ break
 case 'tqtt': 
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
-reply(`Thanks to
-LORD BUDDHA
-Xeon (Me)
+reply(`Thanks To
+XEON BOTZ
+RIELGANS (HANYA KANG RECODE)
 My family
-And all friends who helped assemble this sexy script !!!`)
+And all frieds who helped assemble this sexy script !!!`)
 break
             default:
                 if (budy.startsWith('=>')) {
