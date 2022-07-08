@@ -39,7 +39,7 @@ global.APIKeys = {
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['6282146218274'] //ur owner number
+global.ownername = "𝑶𝑾𝑵𝑬𝑹 𝑹𝑰𝑬𝑳𝑩𝑶𝑻𝒁🐤" //ur owner name
+global.ytname = "𝑮𝑨𝑫𝑨 𝒀𝑻 𝑩𝑮🗿" //ur yt chanel name
+global.socialm = "𝑫𝑶𝑵𝑨𝑺𝑰 𝑩𝑨𝑵𝑮 𝑪𝑯𝑨𝑻 𝑶𝑾𝑵𝑬𝑹🗿" //ur github or insta name
+global.location = "Indonesia, Kaltim,samarinda" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
+global.owner = ['6282146218274']
+global.ownertag = '6282146218274' //ur tag number
+global.botname = ' 𝗥 𝗜 𝗘 𝗟 𝗕 𝗢 𝗧 𝗭 - 𝗠𝗗' //ur bot name
+global.linkz = "donasi bang jan make doang kontl🐤" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.botscript = 'kontol lu kecil🗿' //script link
+global.reactmoji = "🐤" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "𝑹𝒊𝒆𝒍 𝒃𝒐𝒕 𝒔𝒕𝒊𝒄𝒌𝒆𝒓\n\n\n\n\n\n\n\n\n\n\n2022" //ur sticker watermark packname
+global.author = "𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝒓𝒊𝒆𝒍𝒐𝒇𝒄" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -106,15 +106,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    admin: '𝑭𝑰𝑻𝑼𝑹 𝑰𝑵𝑰 𝑯𝑨𝑵𝒀𝑨 𝑩𝑰𝑺𝑨 𝑫𝑰𝑮𝑼𝑵𝑨𝑲𝑨𝑵 𝑶𝑳𝑬𝑯 𝑨𝑫𝑴𝑰𝑵!',
+    botAdmin: '𝑱𝑨𝑫𝑰𝑲𝑨𝑵 𝑨𝑫𝑴𝑰𝑵 𝑫𝑼𝑳𝑼 𝑻𝑶𝑫',
+    owner: '𝑬𝑴𝑨𝑵𝑮𝑵𝒀𝑨 𝑳𝑼 𝑶𝑾𝑵𝑬𝑹 𝑲𝑨𝑯 𝑫𝑬𝑲!',
+    group: '𝑭𝑰𝑻𝑼𝑹 𝑯𝑨𝑵𝒀𝑨 𝑩𝑰𝑺𝑨 𝑫𝑰𝑮𝑼𝑵𝑨𝑲𝑨𝑵 𝑫𝑰𝑫𝑨𝑳𝑨𝑴 𝑮𝑹𝑶𝑼𝑷',
+    private: '𝑮𝑼𝑵𝑨𝑲𝑨𝑵 𝑭𝑰𝑻𝑼𝑹 𝑰𝑵𝑰 𝑫𝑰𝑷𝑹𝑰𝑽𝑨𝑻𝑬 𝑩𝑶𝑻𝒁!',
+    bot: '𝑭𝑰𝑻𝑼𝑹 𝑲𝑯𝑼𝑺𝑼𝑺 𝑩𝑶𝑻',
+    wait: '𝑺𝑨𝑩𝑨𝑹 𝑫𝑰 𝑷𝑹𝑶𝑺𝑬𝑺 𝑻𝑶𝑫...',
     linkm: 'Where is the link?',
-    error: 'Error!!',
+    error: '𝑬𝑹𝑹𝑶𝑹 𝑪𝑶𝑲...',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
