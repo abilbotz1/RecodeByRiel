@@ -65,10 +65,10 @@ global.owner = ['6282146218274']
 global.ownertag = '6282146218274' //ur tag number
 global.botname = ' 𝗥 𝗜 𝗘 𝗟 𝗕 𝗢 𝗧 𝗭 - 𝗠𝗗' //ur bot name
 global.linkz = "donasi bang jan make doang kontl🐤" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.websitex = "donasi kontll mke doang lu🗿" //ur website to be displayed
 global.botscript = 'kontol lu kecil🗿' //script link
 global.reactmoji = "🐤" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "👾" //ur theme emoji
 global.packname = "𝑹𝒊𝒆𝒍 𝒃𝒐𝒕 𝒔𝒕𝒊𝒄𝒌𝒆𝒓\n\n\n\n\n\n\n\n\n\n\n2022" //ur sticker watermark packname
 global.author = "𝒄𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝒓𝒊𝒆𝒍𝒐𝒇𝒄" //ur sticker watermark author
 
